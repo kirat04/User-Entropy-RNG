@@ -1,4 +1,4 @@
-# Random Number Generator (RNG) with Django and React
+# User Entropy Random Number Generator
 
 This project is a full-stack application that combines Django and React to create a Random Number Generator (RNG) with user input. The user provides an input (like a name, a phrase, or any kind of text), and the application uses this input to generate a random seed that can then be used to generate random numbers.
 
