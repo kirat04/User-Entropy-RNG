@@ -52,7 +52,7 @@ This project is a full-stack application that combines Django and React to creat
     cd frontend
     ```
 
-2. Install the required npm packages:
+2. Install the npm packages:
     ```sh
     npm install
     ```
